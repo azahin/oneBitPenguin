@@ -10,7 +10,7 @@ Every road is covered with slippery ice.
 Greg can now go fast.
 ```
 
-sidenote: change this to a tanka style poem. because it's fun
+sidenote: change this to a tanka style poem. because it's fun.
 
 ## Concept
 
@@ -35,6 +35,8 @@ So, what type of game would be good with any of those two types of weather? Then
   - DNB for the high energy feels
 
 ## Gameplay
+
+There are 3 levels in total. A tutorial, a mid level, and a final level.
 
 ### Mechanics
 
@@ -71,6 +73,11 @@ The entire jam is a 1 bit jam. So there's 2 colours.
 - For other models
   - Use free models from asset store (credited, of course)
   - Try using blender for simple stuff
+
+For the environments:
+
+- Roads that are usually meant for cars are now roads for the penguin
+- Houses and trees for the environment
 
 ## Music
 
