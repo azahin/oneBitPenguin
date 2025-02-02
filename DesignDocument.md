@@ -10,6 +10,8 @@ Every road is covered with slippery ice.
 Greg can now go fast.
 ```
 
+sidenote: change this to a tanka style poem. because it's fun
+
 ## Concept
 
 This is a racing game where you race to get the shortest time in different stages. The player is a `-.-` face penguin which can be controlled to go fast. The goal of this game is to learn more about shading and map making.
@@ -31,3 +33,35 @@ So, what type of game would be good with any of those two types of weather? Then
 - [Music Inspiration](https://www.youtube.com/watch?v=27IbVbzUjKs)
   - Chiptune to further go along with the 1 bit aesthetic
   - DNB for the high energy feels
+
+## Gameplay
+
+### Mechanics
+
+Racing game type mechanics
+
+- WASD & Left Stick to face a direction
+- Mouse & Right Stick to move camera
+- Left Click & RB to accelerate
+- Right Stick & LB to brake
+
+### Dynamics
+
+Everything is slippery
+
+- Slow acceleration
+- Easy to drift
+- Able to get to high speeds
+
+### Aesthetics
+
+I want players to feel the speed
+
+- Feeling of skill expression in controlling speed
+- Feeling of light hearted fun
+
+## Art
+
+## Music
+
+## Narrative
