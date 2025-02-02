@@ -62,6 +62,31 @@ I want players to feel the speed
 
 ## Art
 
+The entire jam is a 1 bit jam. So there's 2 colours.
+
+- Since penguins are mostly black and white anyway, it works out
+- Learn and use simple shaders to turn a 3d environment to flat black and white
+- Focus on outlines and shading with checkers or dots like manga
+- Mainly use simple shapes already in unity
+- For other models
+  - Use free models from asset store (credited, of course)
+  - Try using blender for simple stuff
+
 ## Music
 
+Chiptune DNB
+
+- Use Ableton for production.
+  - Only use chiptune sounds
+  - Panning and higher fidelity effects are allowed
+  - Any samples must be bit crushed
+
 ## Narrative
+
+Simple, quick and light hearted
+
+- Greg is sad because he can't go fast.
+- But Greg is `-.-`
+- He remains `-.-` after each level
+- He continues to find places to be fast
+- At the end, Greg gets a smirk on their face
